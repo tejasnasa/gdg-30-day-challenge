@@ -1,6 +1,8 @@
 # GDG-30-Day-Challenge
 
-1. Created a webpage for MSC Website. Created zod validations for [instagram clone](https://github.com/tejasnasa/instagram-pern-clone).
-2. Create routes and controllers in [social-media-api](https://github.com/tejasnasa/social-media-api). Create a [library management system](https://github.com/tejasnasa/library-management-oop) using OOP in C++.
-3. Create frontend routes and functionality in [instagram clone](https://github.com/tejasnasa/instagram-pern-clone).
-4. Add styles in [instagram clone](https://github.com/tejasnasa/instagram-pern-clone). Complete everything.
+1. - 13 Nov - Created a webpage for [MSC Website](https://github.com/tejasnasa/MSCMSIT). Created zod validations for [Instagram Clone](https://github.com/tejasnasa/instagram-pern-clone).
+2. - 14 Nov - Create routes and controllers in [Social Media API](https://github.com/tejasnasa/social-media-api). Create a [Library Management System](https://github.com/tejasnasa/library-management-oop) using OOP in C++.
+3. - 15 Nov - Create frontend routes and functionality in [Instagram Clone](https://github.com/tejasnasa/instagram-pern-clone).
+4. - 16 Nov - Add styles in [Instagram Clone](https://github.com/tejasnasa/instagram-pern-clone). Created another webpage for [MSC Website](https://github.com/tejasnasa/MSCMSIT).
+5. - 17 Nov - Complete [Instagram Clone](https://github.com/tejasnasa/instagram-pern-clone). Made a pull request on [MSC Website](https://github.com/tejasnasa/MSCMSIT).
+6. - 18 Nov - Add routes in [Social Media API](https://github.com/tejasnasa/social-media-api) and fix bugs.
