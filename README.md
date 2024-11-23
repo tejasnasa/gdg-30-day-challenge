@@ -8,3 +8,6 @@
 6. - 18 Nov - Add routes in [Social Media API](https://github.com/tejasnasa/social-media-api) and fix bugs.
 7. - 19 Nov - Add more routes in [Social Media API](https://github.com/tejasnasa/social-media-api).
 8. - 20 Nov - Add more routes in [Social Media API](https://github.com/tejasnasa/social-media-api). Write API documentation for the same.
+9. - 21 Nov - Modify responses in [Social Media API](https://github.com/tejasnasa/social-media-api). Study React from basics.
+10. - 22 Nov - Modify more responses in [Social Media API](https://github.com/tejasnasa/social-media-api). Study React.
+11. - 23 Nov - Study React from basics.
