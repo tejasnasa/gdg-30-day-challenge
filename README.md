@@ -14,3 +14,6 @@
 12. - 24 Nov - Complete [Social Media API](https://github.com/tejasnasa/social-media-api). Publish its [documentation](https://documenter.getpostman.com/view/38189197/2sAYBRFu47).
 13. - 25 Nov - Study more React.
 14. - 26 Nov - Study more React.
+15. - 27 Nov - Learn React. Start rewriting [Budgex](https://github.com/tejasnasa/budgex-api) auth.
+16. - 28 Nov - Learn React. Start working on [Tic-Tac-Toe](https://github.com/tejasnasa/tic-tac-toe).
+17. - 29 Nov - Learn more React. Create game logic for [Tic-Tac-Toe](https://github.com/tejasnasa/tic-tac-toe).
