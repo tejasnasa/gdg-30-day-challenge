@@ -20,3 +20,6 @@
 18. - 30 Nov - Start working on [Portfolio](https://github.com/tejasnasa/portfolio-v2). Learn more React.
 19. - 1 Dec - Continue working on [Portfolio](https://github.com/tejasnasa/portfolio-v2). Learn React.
 20. - 2 Dec - Create more components in [Portfolio](https://github.com/tejasnasa/portfolio-v2).
+21. - 3 Dec - Start work on project component in [Portfolio](https://github.com/tejasnasa/portfolio-v2).
+22. - 4 Dec - Learn React. Refactor some code in [Portfolio](https://github.com/tejasnasa/portfolio-v2).
+23. - 5 Dec - Learn more React.
